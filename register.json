@@ -1,15 +1,9 @@
 {
   "$schema": "./schema/register.schema.json",
-  "openrepos.io": {},
   "openrepos.org": {
-    "kubecell": {
-      "repo": "https://github.com/taosher/KubeCell",
-      "target": "kubecell.pages.dev"
+    "nobordercmc": {
+      "repo": "https://github.com/munoztd0/NoBorderCMC/",
+      "target": "munoztd0.github.io"
     }
-  },
-  "openrepos.sh": {},
-  "repos.one": {},
-  "sourcepage.io": {},
-  "sourcepage.org": {},
-  "sourcepage.sh": {}
+  }
 }
